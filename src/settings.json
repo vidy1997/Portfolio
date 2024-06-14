@@ -1,0 +1,16 @@
+{
+    "tailwindCSS.includeLanguages": {
+        "plaintext": "html",
+        "javascript": "javascriptreact",
+        "typescript": "typescriptreact"
+    },
+    "css.validate": false,
+    "workbench.iconTheme": "file-icons-mac",
+    "tailwindCSS.emmetCompletions": true,
+    "editor.inlineSuggest.enabled": true,
+    "editor.quickSuggestions": {
+        "strings": true
+    }
+
+
+}
